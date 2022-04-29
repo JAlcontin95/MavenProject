@@ -25,4 +25,9 @@ public class SeleniumTest {
 	}
 	
 	
+	@Test
+	public void elementsU21i2()
+	{
+		System.out.println("elementsUi2");
+	}
 }
